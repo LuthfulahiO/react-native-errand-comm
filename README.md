@@ -1,6 +1,6 @@
 # react-native-errand-comm
 
-Private stuff man
+Testing out how to create a react native library.
 
 ## Installation
 
