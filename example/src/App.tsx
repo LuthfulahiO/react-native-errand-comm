@@ -1,7 +1,7 @@
 import * as React from 'react';
 
 import { StyleSheet, View } from 'react-native';
-import {SendButton} from 'react-native-errand-comm';
+import { SendButton } from 'react-native-errand-comm';
 
 export default function App() {
   // const [result, setResult] = React.useState<number | undefined>();
@@ -12,7 +12,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <SendButton/>
+      <SendButton />
     </View>
   );
 }

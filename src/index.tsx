@@ -7,5 +7,5 @@ export {
   // add(a: number, b: number) {
   //   return Promise.resolve(a + b);
   // }
-  SendButton
+  SendButton,
 };
