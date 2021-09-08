@@ -1,0 +1,22 @@
+{
+  "name": "react-native-errand-comm-example",
+  "displayName": "ErrandComm Example",
+  "expo": {
+    "name": "react-native-errand-comm-example",
+    "slug": "react-native-errand-comm-example",
+    "description": "Example app for react-native-errand-comm",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
